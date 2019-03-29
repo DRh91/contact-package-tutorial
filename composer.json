@@ -1,0 +1,13 @@
+{
+    "name": "drhd/contact",
+    "description": "This is a description",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {},
+  "autoload": {
+    "psr-4": {
+      "testnamespace\\contact\\": "src/"
+
+    }
+  }
+}
